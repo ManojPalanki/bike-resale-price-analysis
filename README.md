@@ -1,7 +1,4 @@
-# Bike-resale-price-analysis
-End-to-end data analytics project using Python, Web Scraping, EDA, and Power BI to analyze 1,274 used bike listings collected from BikeKharido and uncover key resale price trends.
-
-# 🚲 Bike Resale Price Analysis Using Web Scraping & EDA
+# Bike Resale Price Analysis Using Web Scraping & EDA
 
 An end-to-end Data Analytics project that collects real-world used bike listings from BikeKharido using web scraping and analyzes the factors affecting resale prices using Python, Exploratory Data Analysis (EDA), and Power BI.
 
